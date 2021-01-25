@@ -1,9 +1,9 @@
 {
     "status": "true",
     "items": [
-         "subject","status","agent_name"
+         "subject","status","agent_name" , "agent_imageview"
     ],
     "datatypes": [
-        "TextDataItem" , "TextDataItem" , "ImageDataItem"
+        "TextDataItem" , "TextDataItem"  , "TextDataItem" , "ImageDataItem"
     ]
 }
