@@ -2,5 +2,8 @@
     "status": "true",
     "items": [
          "subject","status","agent_name"
+    ],
+    "datatypes": [
+        "TextDataItem" , "TextDataItem" , "ImageDataItem"
     ]
 }
