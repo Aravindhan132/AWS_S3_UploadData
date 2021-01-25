@@ -5,5 +5,8 @@
     ],
     "datatypes": [
         "TextDataItem" , "TextDataItem"  , "TextDataItem" , "ImageDataItem"
+    ],
+    "screens": [
+        "TicketList" , "TicketDetail" , "AgentList"
     ]
 }
