@@ -1,10 +1,10 @@
 {
     "status": "true",
     "items": [
-         "subject","status","agent_name" , "agent_imageview"
+        "agent_imageview" , "subject","status","agent_name"
     ],
     "datatypes": [
-        "TextDataItem" , "TextDataItem"  , "TextDataItem" , "ImageDataItem"
+        "ImageDataItem" , "TextDataItem" , "TextDataItem"  , "TextDataItem"
     ],
     "screens": [
         "TicketList" , "TicketDetail" , "AgentList"
